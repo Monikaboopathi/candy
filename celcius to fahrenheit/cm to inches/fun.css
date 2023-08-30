@@ -1,0 +1,23 @@
+body{
+    background-color: darkkhaki;
+}
+#contain{
+    background-color: springgreen;
+text-align: center;
+border-radius: 20px;
+margin: 200px 400px;
+padding: 20px;
+}
+#btn{
+    letter-spacing: 2px;
+    padding: 2px;
+    background-color:springgreen;
+    border-color:rgb(212, 25, 25);
+    
+}
+#result{
+    font-size: 32px;
+    margin-top: 20px;
+    color: rgb(30, 31, 32);
+    padding: 20px;
+}
